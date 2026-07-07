@@ -1,0 +1,22 @@
+{
+  "type": "activity",
+  "initiator": "月子哥",
+  "co_creators": [],
+  "participants": [
+    "Jason",
+    "Neal"
+  ],
+  "metadata": {
+    "title": "新手村共学计划",
+    "description": "月子哥加入第0期新手营后发起的Web3共学小组，与Jason和Neal一同学习DAO治理和区块链知识"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://forum.seedao.xyz",
+      "description": "SeeDAO论坛讨论帖"
+    }
+  ],
+  "id": "evt_1778737387832",
+  "timestamp": 1778737387
+}

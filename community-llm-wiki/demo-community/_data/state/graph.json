@@ -1,0 +1,55 @@
+{
+  "nodes": [
+    {
+      "id": "Jason"
+    },
+    {
+      "id": "Neal"
+    },
+    {
+      "id": "月子哥"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Jason",
+      "target": "月子哥",
+      "density": 5.5,
+      "type": "normal",
+      "events": [
+        "evt_1778737387548",
+        "evt_1778737387832",
+        "evt_1778737388104",
+        "evt_1778737388362"
+      ]
+    },
+    {
+      "source": "Neal",
+      "target": "月子哥",
+      "density": 5.7,
+      "type": "normal",
+      "events": [
+        "evt_1778737387548",
+        "evt_1778737387832",
+        "evt_1778737388104",
+        "evt_1778737388362"
+      ]
+    },
+    {
+      "source": "Jason",
+      "target": "Neal",
+      "density": 6.5,
+      "type": "normal",
+      "events": [
+        "evt_1778737387548",
+        "evt_1778737387832",
+        "evt_1778737388104",
+        "evt_1778737388362"
+      ]
+    }
+  ],
+  "stats": {
+    "node_count": 3,
+    "edge_count": 3
+  }
+}

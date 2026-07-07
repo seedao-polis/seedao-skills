@@ -1,0 +1,35 @@
+{
+  "id": "Neal",
+  "profile": {},
+  "skills": [],
+  "interests": [],
+  "links": {},
+  "works_input": [],
+  "event_refs": [
+    {
+      "event_id": "evt_1778737387548",
+      "role": "participant",
+      "type": "activity",
+      "timestamp": 1778737387
+    },
+    {
+      "event_id": "evt_1778737387832",
+      "role": "participant",
+      "type": "activity",
+      "timestamp": 1778737387
+    },
+    {
+      "event_id": "evt_1778737388104",
+      "role": "co_creator",
+      "type": "activity",
+      "timestamp": 1778737388
+    },
+    {
+      "event_id": "evt_1778737388362",
+      "role": "initiator",
+      "type": "activity",
+      "timestamp": 1778737388
+    }
+  ],
+  "external_inputs": []
+}

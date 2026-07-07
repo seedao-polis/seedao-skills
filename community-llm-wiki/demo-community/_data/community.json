@@ -1,0 +1,20 @@
+{
+  "id": "seedao",
+  "name": "SeeDAO",
+  "values": [
+    "共在",
+    "涌现",
+    "逍遥"
+  ],
+  "manifesto": "",
+  "tags": [],
+  "founders": [],
+  "admins": [],
+  "treasury": {
+    "currency": "",
+    "balance": 0.0,
+    "policy": ""
+  },
+  "links": {},
+  "created_at": 1778737350
+}

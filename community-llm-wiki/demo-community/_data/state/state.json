@@ -1,0 +1,28 @@
+{
+  "co_presence": 1.3333,
+  "emergence": 0.5,
+  "xiaoyao": 0.7645,
+  "people_count": 3,
+  "event_count": 4,
+  "edge_count": 3,
+  "individual_xiaoyao": {
+    "Jason": {
+      "ir": 0.25,
+      "re": 0.8113,
+      "nr": 1.0,
+      "score": 0.6434
+    },
+    "Neal": {
+      "ir": 0.25,
+      "re": 1.5,
+      "nr": 1.0,
+      "score": 0.85
+    },
+    "月子哥": {
+      "ir": 0.5,
+      "re": 1.0,
+      "nr": 1.0,
+      "score": 0.8
+    }
+  }
+}

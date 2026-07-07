@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Existing skills · 现有技能
+    url: https://github.com/seedao/seedao-skills?tab=readme-ov-file
+    about: Check the current skills list before proposing a new one. 提新 skill 前可先查看现有技能列表。
+  - name: Community docs (Feishu) · 社区文档（飞书）
+    url: https://seedao2049.feishu.cn/wiki/Dgh2w1AJiieOgWk1eKRcWQBenSb
+    about: Read the community wiki before opening a question. 提问前可先查阅社区 wiki。

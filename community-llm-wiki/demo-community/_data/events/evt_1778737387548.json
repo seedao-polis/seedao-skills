@@ -1,0 +1,22 @@
+{
+  "type": "activity",
+  "initiator": "月子哥",
+  "co_creators": [],
+  "participants": [
+    "Jason",
+    "Neal"
+  ],
+  "metadata": {
+    "title": "香港大会期间爬山活动",
+    "description": "月子哥在4月香港Web3大会期间组织爬山，约40人进群、20多人报名，实际2人参与：第1天Jason（SeeDAO伦敦联络人）、第2天Neal（SeeDAO早期贡献者，凌晨4点多跑步6公里到达集合点）"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://mp.weixin.qq.com/s/56xbtTJWk6t3kUjmvn_62g",
+      "description": "文章：新手村投稿 | 我和SeeDAO"
+    }
+  ],
+  "id": "evt_1778737387548",
+  "timestamp": 1778737387
+}
